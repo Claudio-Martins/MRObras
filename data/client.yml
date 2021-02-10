@@ -1,6 +1,6 @@
 enable  : true
 title   : OS NOSSOS CLIENTES SATISFEITOS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 clientsLogo:
   - image : images/clients/bmw.png
   - image : images/clients/sic.png
