@@ -1,4 +1,4 @@
-baseURL = "http://exampl.org/"
+baseURL = "https://claudio-martins.github.io/MRObras/"
 languageCode = "pt-pt"
 title = "MrObras.pt | M&B Remodeling"
 theme = "timer-hugo"
