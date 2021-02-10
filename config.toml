@@ -68,7 +68,7 @@ title   = "RIGOR"
 [params.about]
 enable  = true
 title   = "Cuidar da sua casa é a nossa virtude"
-image   = "images/about/about.jpg"
+image   = "images/sobre/about.jpg"
 content = "Olá, somos equipa uma moderna e dinamica de empreiteiros e contrutores, com formação e certificação em trabalhos de modernização e reabilitação de estruturas domésticas e empresariais. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
 
 
