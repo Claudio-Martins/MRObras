@@ -2,6 +2,7 @@ baseURL = "https://claudio-martins.github.io/MRObras/"
 languageCode = "pt-pt"
 title = "MrObras.pt | M&B Remodeling"
 theme = "timer-hugo"
+publishDir = "docs"
 
 # Ionicons Icon font são usados oara icones, mais detalhes - https://ionicons.com/
 
