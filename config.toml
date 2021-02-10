@@ -1,0 +1,99 @@
+baseURL = "http://exampl.org/"
+languageCode = "pt-pt"
+title = "MrObras.pt | M&B Remodeling"
+theme = "timer-hugo"
+
+# Ionicons Icon font são usados oara icones, mais detalhes - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+[[menu.main]]
+name    = "Sobre"
+url     = "sobre"
+weight  = 2
+[[menu.main]]
+name    = "Serviços"
+url     = "servicos"
+weight  = 3
+[[menu.main]]
+name    = "Galeria de Trabalhos"
+url     = "galeriadetrabalhos"
+weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contactos"
+url     = "contactos"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "obras casa arranjos pedreiro projeto apartamento"
+author = "MROBRAS"
+# Google Analitycs
+googleAnalitycsID = "Google Analytics ID"
+# contact form action
+contactFormAction = "#" # esta acção funciona com https://formspree.io
+
+# Secção Banner
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "A REMODELAÇÃO DA SUA CASA COM"
+description = "VAMOS FALAR DO SEU NOVO PROJECTO."
+# botão
+btn     = true
+btnText = "PEÇA JÁ UM ORÇAMENTO"
+btnURL  = "/contactos"
+
+# flip text
+[[params.banner.flipText]]
+title   = "CREDIBILIDADE"
+[[params.banner.flipText]]
+title   = "CONFIANÇA"
+[[params.banner.flipText]]
+title   = "RIGOR"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "Cuidar da sua casa é a nossa virtude"
+image   = "images/about/about.jpg"
+content = "Olá, somos equipa uma moderna e dinamica de empreiteiros e contrutores, com formação e certificação em trabalhos de modernização e reabilitação de estruturas domésticas e empresariais. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "VAMOS FALAR SOBRE O SEU PRÓXIMO PROJETO"
+content = "Pode preencher diretamente o formulário ou contactar através de email ( geral@mrobras.pt ) ou telefone ( 966 888 999 )."
+btnText = "Contacte-nos"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "OS NOSSOS SERVIÇOS"
+subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
