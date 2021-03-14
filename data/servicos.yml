@@ -16,24 +16,23 @@ serviceItem :
   - icon  : ion-ios-paper-outline
     title : REMODELAÇÃO GERAL E MANUTENÇÃO
     description: >
-      Acompanhamento da obra e dos trabalhos em tempo real, assegurando a sua conformidade com os requisitos estabelecidos, bem como o levantamento de inconformidades que possam surgir.
-
+      Remodelação de interiores, melhoramento do isolamento térmico e acústico de habitações, remodelações de espaços comerciais, revestimentos das paredes, pavimentos e teto.
   - icon  : ion-ios-paper-outline
     title : CONSTRUÇÃO CIVIL E INSTALAÇÕES
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+     Garantia dos melhores padrões de qualidade na construção de qualquer tipo de edifício, moradia ou equipamento. Instalações eletricas de baixa e média tensão, em diversas áreas e infraestruturas.
 
         - icon  : ion-ios-paper-outline
     title : BRICOLAGE E DECORAÇÃO
     description: >
-      Acompanhamento da obra e dos trabalhos em tempo real, assegurando a sua conformidade com os requisitos estabelecidos, bem como o levantamento de inconformidades que possam surgir.
+      Melhoria do conforto e aparência dos espaços habitacionais e/ou comerciais, através da conjugação de vários elementos como cores, texturas, objetos e formas. São estes que definem a sensação que o espaço transmite.
 
   - icon  : ion-ios-paper-outline
     title : BRICOLAGE E DECORAÇÃO
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Melhoria do conforto e aparência dos espaços habitacionais e/ou comerciais, através da conjugação de vários elementos como cores, texturas, objetos e formas. São estes que definem a sensação que o espaço transmite.
 
        - icon  : ion-ios-paper-outline
     title : CONSTRUÇÃO CIVIL E INSTALAÇÕES
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Garantia dos melhores padrões de qualidade na construção de qualquer tipo de edifício, moradia ou equipamento. Instalações eletricas de baixa e média tensão, em diversas áreas e infraestruturas.
