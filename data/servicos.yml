@@ -1,24 +1,39 @@
 enable  : true
 title   : OS NOSSOS SERVIÇOS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+subtitle: 
 image   : images/servicos.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : REMODELAÇÕES
+    title : ORÇAMENTAÇÃO E MEDIÇÃO
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-pint-outline
-    title : ARRANJOS
-    description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes.
 
   - icon  : ion-ios-paper-outline
-    title : GESTÃO DE OBRA
+    title : DIREÇÃO E FISCALIZAÇÃO DE OBRA
+    description: >
+      Acompanhamento da obra e dos trabalhos em tempo real, assegurando a sua conformidade com os requisitos estabelecidos, bem como o levantamento de inconformidades que possam surgir.
+
+  - icon  : ion-ios-paper-outline
+    title : REMODELAÇÃO GERAL E MANUTENÇÃO
+    description: >
+      Acompanhamento da obra e dos trabalhos em tempo real, assegurando a sua conformidade com os requisitos estabelecidos, bem como o levantamento de inconformidades que possam surgir.
+
+  - icon  : ion-ios-paper-outline
+    title : CONSTRUÇÃO CIVIL E INSTALAÇÕES
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
+        - icon  : ion-ios-paper-outline
+    title : BRICOLAGE E DECORAÇÃO
+    description: >
+      Acompanhamento da obra e dos trabalhos em tempo real, assegurando a sua conformidade com os requisitos estabelecidos, bem como o levantamento de inconformidades que possam surgir.
+
   - icon  : ion-ios-paper-outline
-    title : CONSULTORIA
+    title : BRICOLAGE E DECORAÇÃO
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+       - icon  : ion-ios-paper-outline
+    title : CONSTRUÇÃO CIVIL E INSTALAÇÕES
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum

@@ -1,21 +1,15 @@
 enable  : true
-title   : Porquê escolher Mr Obras
+title   : O NOSSO CERTIFICADO DE GARANTIA
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  
+  <br>
+  MR Obras: uma empresa transparente, credível e de confiança.
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/sobre/about.jpg
-aboutItem:
+  Atua nas diversas áreas da construção civil, medição e orçamentação, remodelações em geral, manutenção e bricolage e direção de obras.
+  <br>
+  Com uma vasta experiência na área e com os melhores profissionais, garante um serviço de excelência  aos seus clientes, distinguindo-se no mercado de uma forma única!
+  A orçamentação qualificada, a composição dos preços de forma detalhada e 100% transparente, garante aos clientes o melhor valor para os seus projetos e total controlo orçamental.
+  A direção da sua obra é feita com todos os requisitos obrigatórios e a fiscalização dos serviços é executada de acordo com o caderno de encargos, tornando credível todo o processo.
 
-  - title : Consultoria e Acompanhamento
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
-
-  - title : Larga experiência de trabalho
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
-
-  - title : Credibilidade e Confiança
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+image   : images/sobre/home-indoor-design-concept.jpg

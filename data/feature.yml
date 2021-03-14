@@ -1,19 +1,19 @@
 enable  : true
 title   : Porque deve escolher MR Obras
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+  
 item    :
-  - icon  : ion-ios-person-outline
-    title : Consultoria e Acompanhamento
+  - icon  : 
+    title : ORÇAMENTAÇÃO PERSONALIZADA
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Análise cuidada e personalizada do seu projeto
 
-  - icon  : ion-ios-speedometer-outline
-    title : Larga experiência de trabalho
+  - icon  : 
+    title : QUALIDADE DOS SERVIÇOS
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Procura de soluções inovadoras e melhores práticas construtivas
 
-  - icon  : ion-ios-checkmark-outline
-    title : Credibilidade e Confiança
+  - icon  : 
+    title : EXPERIÊNCIA DE TRABALHO
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Dedicação e profissionalismo dos técnicos envolvidos

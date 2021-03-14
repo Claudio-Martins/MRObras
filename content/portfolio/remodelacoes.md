@@ -1,10 +1,13 @@
 ---
-title: "Remodelações"
+title: "ORÇAMENTAÇÃO 
+
+
+E MEDIÇÃO"
 type: portfolio
 date: 2020-07-12T16:56:54+06:00
 description : "remodelação modernização de espaços"
 caption: Reformar o seu espaço
-image: images/portfolio/item-3.jpg
+image: images/portfolio/2909-e1519742177248.jpg
 category: ["Remodelação","Modernização"]
 liveLink: https://www.exemplo.com
 client: Julia Roberts
