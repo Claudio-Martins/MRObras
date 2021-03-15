@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galeria de Trabalhos on MrObras.pt</title>
-    <link>https://claudio-martins.github.io/MRObras/galeriadetrabalhos/</link>
+    <link>http://mrobras.pt/galeriadetrabalhos/</link>
     <description>Recent content in Galeria de Trabalhos on MrObras.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate><atom:link href="https://claudio-martins.github.io/MRObras/galeriadetrabalhos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate><atom:link href="http://mrobras.pt/galeriadetrabalhos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

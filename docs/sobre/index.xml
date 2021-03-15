@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre nós on MrObras.pt</title>
-    <link>https://claudio-martins.github.io/MRObras/sobre/</link>
+    <link>http://mrobras.pt/sobre/</link>
     <description>Recent content in Sobre nós on MrObras.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://claudio-martins.github.io/MRObras/sobre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="http://mrobras.pt/sobre/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://claudio-martins.github.io/MRObras/"
+baseURL = "http://mrobras.pt"
 languageCode = "pt-pt"
 title = "MrObras.pt"
 theme = "timer-hugo"
@@ -43,7 +43,7 @@ author = "MROBRAS"
 # Google Analitycs
 googleAnalitycsID = "Google Analytics ID"
 # contact form action
-contactFormAction = "#" # esta acção funciona com https://formspree.io
+contactFormAction = "https://formspree.io/f/mgepgrwr" # esta acção funciona com https://formspree.io
 
 # Secção Banner
 [params.banner]
@@ -71,7 +71,7 @@ title   = "TRANSPARÊNCIA"
 enable  = true
 title   = "Cuidar da sua casa é a nossa virtude"
 image   = "images/sobre/MR obras Logotipo_original-.png"
-content = "Com equipas de profissionais especializados, MR.OBRAS.PT apresenta um conjunto de valências integradas, distinguindo-se pelo atendimento e acompanhamento personalizado, exclusividade, profissionalismo e rigor."
+content = "Com equipas de profissionais especializados, <strong>MR.OBRAS.PT</strong> apresenta um conjunto de valências integradas, distinguindo-se pelo atendimento e acompanhamento personalizado, exclusividade, profissionalismo e rigor."
 
 
 # Call to Action
@@ -80,7 +80,7 @@ enable  = true
 title   = "VAMOS FALAR SOBRE O SEU PRÓXIMO PROJETO"
 content = "Pode preencher diretamente o formulário ou contactar através de email ( geral@mrobras.pt ) ou telefone ( 914 306 548 )."
 btnText = "Contacte-nos"
-btnURL  = "/contact"
+btnURL  = "/contactos"
 
 # Portfolio Section On Homepage
 [params.portfolio]

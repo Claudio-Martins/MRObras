@@ -2,7 +2,8 @@ enable  : true
 contactFormTitle    : CONTACTE-NOS
 contactFormSubtitle : >
   Preencha este formulário ou envie-nos um email!
-  
+officeAddress1 : Olhão, Portugal
+# officeAddress2 : 925, Lab Street, San Fransisco, United State 90278
 mail1 : geral@mrobras.pt
 # mail2 : info@mrobras.pt
 phone1: +351 914 306 548
