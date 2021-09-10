@@ -90,13 +90,13 @@ title   = "OS NOSSOS SERVIÇOS"
 
 # social icon
 [[params.socialIcon]]
-icon = "ion-social-facebook"
-url = "#"
+icon = "fb icon-03"
+url = "https://www.facebook.com/mrobras.pt"
 
 [[params.socialIcon]]
-icon = "ion-social-instagram"
-url = "#"
+icon = "in icon-04"
+url = "https://www.facebook.com/mrobras.pt"
 
 [[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+icon = "icon whatsapp-02"
+url = "https://api.whatsapp.com/send?phone=+351968827544"
