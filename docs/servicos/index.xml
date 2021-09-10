@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serviços on MrObras.pt</title>
-    <link>https://claudio-martins.github.io/MRObras/servicos/</link>
+    <link>http://mrobras.pt/servicos/</link>
     <description>Recent content in Serviços on MrObras.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sat, 14 Jul 2018 12:58:14 +0600</lastBuildDate><atom:link href="https://claudio-martins.github.io/MRObras/servicos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 12:58:14 +0600</lastBuildDate><atom:link href="http://mrobras.pt/servicos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

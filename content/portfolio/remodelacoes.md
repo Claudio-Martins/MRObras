@@ -1,8 +1,5 @@
 ---
-title: "ORÇAMENTAÇÃO 
-
-
-E MEDIÇÃO"
+title: "ORÇAMENTAÇÃO E MEDIÇÃO"
 type: portfolio
 date: 2020-07-12T16:56:54+06:00
 description : "remodelação modernização de espaços"

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MrObras.pt</title>
-    <link>https://claudio-martins.github.io/MRObras/categories/</link>
+    <link>http://mrobras.pt/categories/</link>
     <description>Recent content in Categories on MrObras.pt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-pt</language><atom:link href="https://claudio-martins.github.io/MRObras/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-pt</language><atom:link href="http://mrobras.pt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
